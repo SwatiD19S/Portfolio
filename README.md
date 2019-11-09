@@ -1,2 +1,2 @@
-Project 5- Prtfolio
+Project 5- Portfolio
 Responsive Web Design- FreeCodeCamp
